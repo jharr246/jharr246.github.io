@@ -11,8 +11,11 @@ h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .img-dog {
-    width: 400px;
+    width: 700px;
 }
 .img-dog {
     align-items: center;
+}
+h2 {
+    text-align: center;
 }
