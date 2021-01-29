@@ -30,3 +30,14 @@ ul {
 body {
     background-color: mediumturquoise;
 }
+.container {
+   width: auto; 
+   overflow: hidden;
+   background-color: orange;
+   margin: 20px auto;
+   padding 20px;
+
+}
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
