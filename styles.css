@@ -31,7 +31,7 @@ body {
     background-color: mediumturquoise;
 }
 .container {
-   width: auto; 
+   width: 50px; 
    overflow: hidden;
    background-color: orange;
    margin: 20px auto;
